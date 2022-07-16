@@ -2,6 +2,6 @@
 #jsutils Installation Script
 
 echo "[!] Installing jsutils...."
-cp -r ./bin /usr/loca/bin
+cp -r ./bin /usr/local/bin
 sleep 1
 echo "[!] Installation successfully completed!"
